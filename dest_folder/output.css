@@ -574,28 +574,12 @@ video {
   display: flex;
 }
 
-.w-0{
-  width: 0px;
-}
-
 .w-96{
   width: 24rem;
 }
 
 .w-full{
   width: 100%;
-}
-
-.w-36{
-  width: 9rem;
-}
-
-.w-72{
-  width: 18rem;
-}
-
-.w-80{
-  width: 20rem;
 }
 
 .grow{
@@ -629,6 +613,10 @@ video {
 
 .gap-4{
   gap: 1rem;
+}
+
+.gap-1{
+  gap: 0.25rem;
 }
 
 .rounded-3xl{
